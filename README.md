@@ -8,14 +8,11 @@ Clone the Repository:
 
 Clone the PtVuln repository to your local machine using the following command:
 bash
-Copy code
 git clone <repository_url>
 Run the Script:
 
 Navigate to the directory containing the PtVuln script.
-Execute the script using the following command:
-Copy code
-./PtVuln.sh
+Execute the script using the following command: sudo ./PtVuln.sh
 Follow On-screen Prompts:
 
 Enter the IP address of the target network.
